@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VertxDemo.iml" filepath="$PROJECT_DIR$/.idea/VertxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-examples/core-examples.iml" filepath="$PROJECT_DIR$/core-examples/core-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-simplest/maven-simplest.iml" filepath="$PROJECT_DIR$/maven-simplest/maven-simplest.iml" />
+    </modules>
+  </component>
+</project>
